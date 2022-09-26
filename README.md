@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daosapiens
+- 👋 Hi, I’m @bitsapiens
 - 👀 I’m interested in DAOs/ games / art / activism
 - 🌱 I’m currently learning govern models for dao
 - 💞️ I’m looking to collaborate on nft, dao  projects
